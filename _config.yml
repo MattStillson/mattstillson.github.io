@@ -2,7 +2,6 @@ sass:
   style: compressed
 repository: https://github.com/mattstillson.github.io
 timezone: America/New_York
- encoding: UTF-8
  kramdown:
    input: GFM
    hard_wrap: false
@@ -10,8 +9,8 @@ timezone: America/New_York
  jailed: false
  theme: jekyll-theme-cayman
 
-name: Jekyll â€¢ Simple, blog-aware, static sites
-description: Transform your plain text into static websites and blogs
+name: Matt Stillson Production Engineer.
+description: Developer and Guru with multiple Software
 url: https://mattstillson.github.io
 
 plugins:
