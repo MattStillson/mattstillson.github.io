@@ -8,7 +8,7 @@ theme: jekyll-theme-cayman
 
 name: Matt Stillson Production Engineer.
 description: Developer and Guru with multiple Software
-url: Matthew Stillson
+url: https://mattstillson.github.io
 
 plugins:
   - jekyll-avatar
