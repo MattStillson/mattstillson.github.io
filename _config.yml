@@ -1,1 +1,29 @@
-theme: jekyll-theme-cayman
+sass:
+  style: compressed
+repository: https://github.com/mattstillson.github.io
+timezone: America/New_York
+ github: [metadata]
+ encoding: UTF-8
+ kramdown:
+   input: GFM
+   hard_wrap: false
+ future: true
+ jailed: false
+ theme: jekyll-theme-cayman
+
+name: Jekyll â€¢ Simple, blog-aware, static sites
+description: Transform your plain text into static websites and blogs
+url: https://mattstillson.github.io
+
+plugins:
+  - jekyll-avatar
+  - jekyll-feed
+  - jekyll-mentions
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
+
+exclude:
+  - .gitignore
+  - CNAME
