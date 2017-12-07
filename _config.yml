@@ -2,7 +2,6 @@ sass:
   style: compressed
 repository: https://github.com/mattstillson.github.io
 timezone: America/New_York
- github: [metadata]
  encoding: UTF-8
  kramdown:
    input: GFM
