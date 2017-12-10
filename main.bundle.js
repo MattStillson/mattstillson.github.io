@@ -167,7 +167,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 
 
 var router = [
-    { path: '', pathMatch: 'full', redirectTo: 'home' },
+    { path: '', pathMatch: 'full', redirectTo: 'path' },
     { path: 'home', component: __WEBPACK_IMPORTED_MODULE_2__components_home_home_component__["a" /* HomeComponent */] },
     { path: 'about', component: __WEBPACK_IMPORTED_MODULE_3__components_about_about_component__["a" /* AboutComponent */] },
     { path: 'resume', component: __WEBPACK_IMPORTED_MODULE_4__components_resume_resume_component__["a" /* ResumeComponent */] },
